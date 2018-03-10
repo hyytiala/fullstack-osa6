@@ -3,7 +3,6 @@ const filterAtStart = ''
 const reducer = (store = filterAtStart, action) => {
   switch (action.type) {
     case 'SET':
-    console.log(action.filter)
       return action.filter
     default:
       return store

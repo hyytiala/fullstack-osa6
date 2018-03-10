@@ -3,17 +3,17 @@
     {
       "id": "47145",
       "content": "47145",
-      "votes": 4
+      "votes": 6
     },
     {
       "id": "21149",
       "content": "Adding manpower to a late software project makes it later!",
-      "votes": 9
+      "votes": 14
     },
     {
-      "content": "The first 90 percent of the code accounts for the first 90 percent of the development time...The remaining 10 percent of the code accounts for the other 90 percent of the development time.",
       "id": "69581",
-      "votes": 0
+      "content": "The first 90 percent of the code accounts for the first 90 percent of the development time...The remaining 10 percent of the code accounts for the other 90 percent of the development time.",
+      "votes": 1
     },
     {
       "id": "36975",
@@ -21,14 +21,39 @@
       "votes": 1
     },
     {
-      "content": "Premature optimization is the root of all evil.",
       "id": "25170",
-      "votes": 0
+      "content": "Premature optimization is the root of all evil.",
+      "votes": 1
     },
     {
       "id": "98312",
       "content": "Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.",
       "votes": 1
+    },
+    {
+      "id": "QwUHp4_",
+      "content": "testing",
+      "votes": 1
+    },
+    {
+      "id": "8lBQ7EC",
+      "content": "actioncreation",
+      "votes": 1
+    },
+    {
+      "id": "Zp4JBcH",
+      "content": "toimii",
+      "votes": 2
+    },
+    {
+      "content": "tetetet",
+      "votes": 0,
+      "id": "VXZrPSi"
+    },
+    {
+      "content": "testing",
+      "votes": 0,
+      "id": "a6Ytqwr"
     }
   ]
 }

@@ -16,13 +16,15 @@ module.exports = {
         },
         "sourceType": "module"
     },
+    "parser": "babel-eslint",
     "plugins": [
         "react", "jest"
     ],
     "rules": {
         "indent": [
             "error",
-            2
+            2,
+            {"SwitchCase": 1}
         ],
         "linebreak-style": [
             "error",
